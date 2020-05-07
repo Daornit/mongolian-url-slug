@@ -1,0 +1,17 @@
+{
+  "name": "mongolian-url-slug",
+  "version": "0.0.1",
+  "description": "Монгол крилл үгнүүдээс хайлт хийж болхуйц URL string-рүү хөрвүүлэлт хийнэ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Монгол",
+    "slug",
+    "url",
+    "slug"
+  ],
+  "author": "Д.Бат-оргил",
+  "license": "ISC"
+}
